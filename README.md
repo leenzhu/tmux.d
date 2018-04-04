@@ -1,7 +1,7 @@
 # tmux.d
 This is my tmux config
 
-#Usage
+# Usage
 
 ```sh
 git clone https://github.com/leenzhu/tmux.d.git ~/.tmux.d
